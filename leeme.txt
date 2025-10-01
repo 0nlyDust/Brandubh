@@ -1,0 +1,5 @@
+En el foro de la práctica obligatoria 1 hubo una discursión sobre algunos fallos en los tests, solo quería avisar de que lo he tenido en cuenta y cambie los test como se indico en el foro para comprobar el correcto funcinamiento del programa.
+
+El método haGanadoRey() de la clase Arbitro funciona en modo texto pero no en modo gráfico. 
+
+He de hacer mención a la no entrega de los archivos .classpath, .project y a la carpeta .settings ya que no hay mención alguna de estos archivos en el enunciado de la práctica, y en la entrega dice textuamente "Comprobar antes del envío que el fichero comprimido SOLO contiene lo solicitado en el enunciado.", supongo que haciendo referencia unicamente a la estructura que se menciona en el enunciado y nada más.

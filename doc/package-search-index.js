@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"brandubh.control"},{"l":"brandubh.modelo"},{"l":"brandubh.textui"},{"l":"brandubh.util"}];updateSearchResults();
